@@ -1,0 +1,7 @@
+*.pyc
+*.idea/
+locale
+damnedlies/local_settings.py
+/media
+/static
+pip
